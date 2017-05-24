@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1490716520 source:e:\nosemsters\c refresh\io statements\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490717573 source:e:\nosemsters\c refresh\io statements\abc.c
+	<stdio.h>
+	<stdlib.h>
+
+1490718450 source:e:\nosemsters\c refresh\io statements\large.c
+	<stdio.h>
+
+1490719069 source:e:\nosemsters\c refresh\io statements\rectangle.c
+	<stdio.h>
+
+1490720845 source:e:\nosemsters\c refresh\io statements\suminput.c
+	<stdio.h>
+
+1490772428 source:e:\nosemsters\c refresh\io statements\largest.c
+	<stdio.h>
+
+1490773137 source:e:\nosemsters\c refresh\io statements\eveodd.c
+	<stdio.h>
+
+1490773813 source:e:\nosemsters\c refresh\io statements\posizero.c
+	<stdio.h>
+
+1490776435 source:e:\nosemsters\c refresh\io statements\largest_new.c
+	<stdio.h>
+
+1490776830 source:e:\nosemsters\c refresh\io statements\largest_new_alter.c
+	<stdio.h>
+
+1490777779 source:e:\nosemsters\c refresh\io statements\large if else.c
+	<stdio.h>
+	<stdlib.h>
+
+1490778240 source:e:\nosemsters\c refresh\io statements\leap year.c
+	<stdio.h>
+
+1490779314 source:e:\nosemsters\c refresh\io statements\float.c
+	<stdio.h>
+
+1490781840 source:e:\nosemsters\c refresh\io statements\uppercaselowercase.c
+	<stdio.h>
+
+1490782661 source:e:\nosemsters\c refresh\io statements\alphabet or character.c
+	<stdio.h>
+

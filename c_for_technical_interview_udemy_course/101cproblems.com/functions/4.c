@@ -1,0 +1,23 @@
+#include<stdio.h>
+void  func();
+int main()
+{
+
+    func();
+
+}
+
+void func()
+{
+    int n,i;
+    scanf("%d",&n);
+    printf("\n");
+    for(i=1; i<=n; i++)
+    {
+        if(n%i==0)
+        {
+            printf("%d\n",i);
+        }
+    }
+    return 0;
+}

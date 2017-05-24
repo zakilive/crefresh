@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1492311705 source:e:\nosemsters\c refresh\string\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1492312112 source:e:\nosemsters\c refresh\string\1.c
+	<stdio.h>
+
+1492313217 source:e:\nosemsters\c refresh\string\2.c
+	<stdio.h>
+
+1492314370 source:e:\nosemsters\c refresh\string\3.c
+	<stdio.h>
+	<stdlib.h>
+
+1492315921 source:e:\nosemsters\c refresh\string\092.c
+	<stdio.h>
+

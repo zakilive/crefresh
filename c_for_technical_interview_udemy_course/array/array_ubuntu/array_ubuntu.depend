@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1494471562 source:/media/zakilive/Zaki/nosemsters/codes/crefresh/crefresh/c_for_technical_interview_udemy_course/array/array_ubuntu/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1494439603 source:/media/zakilive/Zaki/nosemsters/codes/crefresh/crefresh/c_for_technical_interview_udemy_course/array/mod.c
+	<stdio.h>
+
+1494481112 source:/media/zakilive/Zaki/nosemsters/codes/crefresh/crefresh/c_for_technical_interview_udemy_course/array/6.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1490984454 source:e:\nosemsters\c refresh\io statements\whilez.c
+	<stdio.h>
+
+1491497614 
+
+1490986741 source:e:\nosemsters\c refresh\loop\main.c
+	<stdio.h>
+
+1490988066 source:e:\nosemsters\c refresh\loop\while.c
+	<stdio.h>
+
+1491199722 source:e:\nosemsters\c refresh\loop\1st10even.c
+	<stdio.h>
+
+1491200430 source:e:\nosemsters\c refresh\loop\1st10odd.c
+	<stdio.h>
+
+1491228751 source:e:\nosemsters\crefresh\loop\sumofnatural.c
+	<stdio.h>
+
+1491331587 source:e:\nosemsters\crefresh\loop\sumofdigits.c
+	<stdio.h>
+
+1491335421 source:e:\nosemsters\crefresh\loop\pallindrome.c
+
+1491340330 source:e:\nosemsters\crefresh\loop\sumofdigitsfor.c
+	<stdio.h>
+
+1491343202 source:e:\nosemsters\crefresh\loop\sumofseriesdowhile.c
+	<stdio.h>
+
+1491345680 source:e:\nosemsters\crefresh\loop\sumofseriesnegative.c
+	<stdio.h>
+
+1491349557 source:e:\nosemsters\crefresh\loop\sumoffirstn.c
+	<stdio.h>
+
+1491400896 source:e:\nosemsters\crefresh\loop\10odd.c
+	<stdio.h>
+
+1491401652 source:e:\nosemsters\crefresh\loop\forfactorial.c
+	<stdio.h>
+
+1491402819 source:e:\nosemsters\crefresh\loop\sumsumdigitsfor.c
+	<stdio.h>
+
+1491402819 source:e:\nosemsters\crefresh\crefresh\loop\sumsumdigitsfor.c
+	<stdio.h>
+
+1491497614 source:e:\nosemsters\crefresh\crefresh\loop\factorialseriessum.c
+	<stdio.h>
+
+1491497614 source:/media/zakilive/Zaki/nosemsters/crefresh/crefresh/Loop/factorialseriessum.c
+	<stdio.h>
+
+1491561852 source:e:\nosemsters\crefresh\crefresh\loop\forprime.c
+	<stdio.h>
+
+1491563012 source:e:\nosemsters\crefresh\crefresh\loop\nestedloop.c
+	<stdio.h>
+
+1491564462 source:e:\nosemsters\crefresh\crefresh\loop\nestedloopinnerouter.c
+	<stdio.h>
+
+1491565786 source:e:\nosemsters\crefresh\crefresh\loop\starloop.c
+	<stdio.h>
+
+1491566011 source:e:\nosemsters\crefresh\crefresh\loop\divisible.c
+	<stdio.h>
+
+1491566378 source:e:\nosemsters\crefresh\crefresh\loop\even.c
+	<stdio.h>
+
